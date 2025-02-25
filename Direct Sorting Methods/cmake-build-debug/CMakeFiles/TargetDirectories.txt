@@ -1,0 +1,3 @@
+C:/Users/Calina/Desktop/ANUL2/FA/tema/cmake-build-debug/CMakeFiles/tema.dir
+C:/Users/Calina/Desktop/ANUL2/FA/tema/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Calina/Desktop/ANUL2/FA/tema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
